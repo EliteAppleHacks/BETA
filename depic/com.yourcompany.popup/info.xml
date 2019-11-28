@@ -1,7 +1,7 @@
 <package>
-	<id>com.decimation.alm</id>
-	<name>Full Package</name>
-	<version>1.6</version>
+	<id>com.yourcompany.popup</id>
+	<name>popUp</name>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -9,8 +9,6 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>com.chewitt.mc</package>
-		<package>winterboard</package>
 	</dependencies>
 	<descriptionlist>
 		<description>Android Lollipop styled Message bubbles.</description>
@@ -19,7 +17,6 @@
 	<screenshots>
 		<screenshot>
 			<description>As close as I could replicate it.</description>
-			<image>alm.PNG</image>
 		</screenshot>			
 	</screenshots>
 	<changelog>
