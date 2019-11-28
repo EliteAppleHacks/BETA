@@ -13,3 +13,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: EAH <iapplepromail@gmail.com>
 Depiction: http://eliteapplehacks.github.io/beta/Depic/com.yourcompany.popup/index.html
 Name: popUp
+
+Package: com.yourcompany.random
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: EAH <iapplepromail@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//tweaks/com.yourcompany.random_0.0.1-1+debug_iphoneos-arm.deb
+Size: 1712
+MD5sum: 19779622c13f52772ae855c4c7677f0b
+SHA1: 11ae27a8dcb54e2b1b66f0bfa071c240f9455979
+SHA256: 291f8d0f2a293b2e053fa5fef6702b693e1a7a710ca5b84389dd20344974954a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: EAH <iapplepromail@gmail.com>
+Depiction: http://eliteapplehacks.github.io/beta/Depic/com.yourcompany.popup/index.html
+Name: random
