@@ -29,3 +29,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: EAH <iapplepromail@gmail.com>
 Depiction: http://eliteapplehacks.github.io/beta/Depic/com.yourcompany.popup/index.html
 Name: random
+
+Package: com.eliteapplehacks.symbolabpremium
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: EAH <iapplepromail@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//tweaks/com.eliteapplehacks.symbolabpremium_1.0-3+debug_iphoneos-arm.deb
+Size: 3082
+MD5sum: d275ccd9c54a1cb397256a0511ed31d2
+SHA1: 5d554acad3bc0905523d378373c63549ade58142
+SHA256: 138a284fd1759991851f7caf719bf255a1faf194393e662128b8cd9dd41075c5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: EAH <iapplepromail@gmail.com>
+Depiction: http://eliteapplehacks.github.io/beta/Depic/com.yourcompany.popup/index.html
+Name: Symbolab++
