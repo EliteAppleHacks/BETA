@@ -1,0 +1,15 @@
+Package: com.yourcompany.popup
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: EAH <iapplepromail@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//tweaks/com.yourcompany.popup_0.0.1-9+debug_iphoneos-arm.deb
+Size: 3608
+MD5sum: 3abad91fa4486ed3e8c2d7adcb4807c5
+SHA1: 6abcc308a0b62f27c9fd57af3edeca2e24e83663
+SHA256: 76fcf9fb4c9068a24344c9b9a194d296c102371e2a73d583849fda7f3a9f3392
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: EAH <iapplepromail@gmail.com>
+Depiction: http://repo.github.io/Depic/com.yourcompany.popup/index.html
+Name: popUp
