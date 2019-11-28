@@ -27,7 +27,7 @@ SHA256: 291f8d0f2a293b2e053fa5fef6702b693e1a7a710ca5b84389dd20344974954a
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: EAH <iapplepromail@gmail.com>
-Depiction: http://eliteapplehacks.github.io/beta/Depic/com.yourcompany.popup/index.html
+Depiction: http://eliteapplehacks.github.io/beta/Depic/com.yourcompany.random/index.html
 Name: random
 
 Package: com.eliteapplehacks.symbolabpremium
@@ -43,5 +43,5 @@ SHA256: 138a284fd1759991851f7caf719bf255a1faf194393e662128b8cd9dd41075c5
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: EAH <iapplepromail@gmail.com>
-Depiction: http://eliteapplehacks.github.io/beta/Depic/com.yourcompany.popup/index.html
+Depiction: http://eliteapplehacks.github.io/beta/Depic/com.eliteapplehacks.symbolabpremium/index.html
 Name: Symbolab++
